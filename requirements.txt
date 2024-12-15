@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-openai
+langchain-huggingface
+langchain-groq
+beautifulsoup4
+langchain-community
+python-dotenv
+chromadb
+faiss-cpu
